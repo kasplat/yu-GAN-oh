@@ -10,4 +10,6 @@ The Net uses 5 convolutional layers for both the generator and discriminator. Re
 
 Check out the gif!
 
+![alt text](https://github.com/kasplat/yu-GAN-oh/blob/master/yugioh102.png)
+
 Thanks for checking out this project!
